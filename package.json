@@ -1,5 +1,5 @@
 {
-  "name": "ngf-template",
+  "name": "ngf-webpack-ts-template",
   "version": "0.0.0",
   "description": "",
   "main": "dist/index.html",
