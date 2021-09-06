@@ -1,3 +1,5 @@
+import './main.css';
+
 import NgwMap from '@nextgis/ngw-ol';
 import VectorSource from 'ol/source/Vector.js';
 import VectorLayer from 'ol/layer/Vector';
@@ -6,7 +8,7 @@ import Draw from 'ol/interaction/Draw';
 import { Fill, Stroke, Style } from 'ol/style';
 
 NgwMap.create({
-  target: 'map',
+  target: 'app',
   baseUrl: 'https://demo.nextgis.com/',
   // center: [104, 52],
   // zoom: 6,

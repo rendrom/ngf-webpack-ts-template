@@ -16,6 +16,7 @@
   "dependencies": {
     "@nextgis/eslint-config": "^1.2.0",
     "@nextgis/ngw-ol": "^1.5.0",
+    "@nextgis/ol-map-adapter": "^1.5.0",
     "core-js": "^3.17.2",
     "regenerator-runtime": "^0.13.9"
   },
